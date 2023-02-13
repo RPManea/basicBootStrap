@@ -1,0 +1,27 @@
+Bootstrap: Librería de estilos CSS, creada por Twitter, cuya principal caraterística es dotar a los sitios web de responsividad.
+
+CDN (Content Delivery Network):
+
+-----------------------------
+
+BOOTSTRAP DIVIDE LA PANTALLA EN 12 ELEMENTOS
+TIPOS DE TAMAÑO:
+    col: column
+    col-sm: small
+    col-md: medium
+    col-lg: large
+    col-xl: extra large
+    col-xxl: extra extra large
+
+CLASE "container" CENTRA EL ELEMENTO DEJANDO UN ESPACIO A LOS LADOS
+CLASE "row" DEFINE UNA FILA
+
+PARA POENR UN MARGIN(Contra elementos externos) O PADDING(contra el contenido internto) EN BOOTSTRAP DISTINGUE DE "y" vertial y "x" horizontal
+
+my = margin vertical
+mx = margin horizontal
+py = padding vertical
+px = padding horizontal
+
+ms = margin start (inicio izquierda)
+------------------------------
